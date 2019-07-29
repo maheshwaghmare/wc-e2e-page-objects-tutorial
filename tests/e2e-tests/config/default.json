@@ -1,0 +1,15 @@
+{
+  "url": "http://localhost/dev.fresh/",
+	"users": {
+		"admin": {
+	      "username": "admin",
+	      "password": "password"
+	    },
+	    "customer": {
+	      "username": "Customer",
+	      "password": "password"
+	    }
+	},
+	"startBrowserTimeoutMs": 30000,
+	"mochaTimeoutMs": 120000
+}
